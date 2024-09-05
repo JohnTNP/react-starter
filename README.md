@@ -1,6 +1,6 @@
 # React + Shadcn/ui 
 
-My personal simple starter template for React + Shadcn/ui
+My personal simple starter template for [Vite](https://vitejs.dev/) [React](https://react.dev/) + [shadcn/ui](https://ui.shadcn.com/)
 
 ## To do 
 
